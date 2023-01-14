@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kabsa!
-- 👀 I’m interested in ios Engineering
-- 🌱 I’m currently learning Swift UI
-- 💞️ I’m looking to collaborate on fun mobile devlopment projects
+- 👀 I’m interested in Mobile Design and Development 
+- 🌱 I’m currently learning iOS & Swift UI Engineering 
+- 💞️ I’m looking to collaborate on fun mobile dev projects
 - 📫 How to reach me on twitter @kaycodez
  
  
