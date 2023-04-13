@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kabsa!
-- 👀 I’m interested in Mobile Design and Development 
-- 🌱 I’m currently learning iOS & Swift UI Engineering 
-- 💞️ I’m looking to collaborate on fun mobile development projects
+- 👀 I’m interested in Front-End Design and Development 
+- 🌱 I’m currently learning iOS & Swift UI Design 
+- 💞️ I’m looking to collaborate on fun web and mobil development projects 
 
  
  
