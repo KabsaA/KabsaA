@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Kabsa!
 - 👀 I’m interested in Data and Software Engineering.
 - 🌱 I’m currently working on an iOS & Swift Project.       
-- 💞️ I’m looking to collaborate on fun web and mobile development projects.
+- 💞️ I’m looking to collaborate on fun web and mobile development projects. 
      
    
 <!---
